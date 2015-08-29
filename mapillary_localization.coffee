@@ -32,6 +32,9 @@ angular.module("mapapp").config ($translateProvider) ->
   $translateProvider.translations "it",
     <!--(bake locales/it.coffee)-->
 
+  $translateProvider.translations "ja",
+    <!--(bake locales/ja.coffee)-->
+
   $translateProvider.translations "lv",
     <!--(bake locales/lv.coffee)-->
 
