@@ -25,7 +25,7 @@ landing:
   more: "もっと見る"
   photos: "枚の写真"
   meters: "メートル（撮影距離）"
-andingBusiness:
+landingBusiness:
   title: "Mapillaryのビジネス利用"
   use: "Mapillary画像の利用"
   service: "Mappillaryの画像やデータをあなたのサービスで使用するには、商用APIにサインアップしてください。"
