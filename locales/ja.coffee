@@ -1,8 +1,8 @@
 footer:
-	getApp: "Mapillaryアプリを入手"
-	on: "on"
-	directAndroid: " Android .apkへの直リンク"
-	manifesto: "マニフェスト"
+  getApp: "Mapillaryアプリを入手"
+  on: "on"
+  directAndroid: " Android .apkへの直リンク"
+  manifesto: "マニフェスト"
   about: "私たちについて"
   blog: "ブログ"
   howItWorks: "使い方"
