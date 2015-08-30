@@ -34,13 +34,13 @@ landingBusiness:
   integrate: "写真の閲覧機能を統合"
   gis: "APIを使用して、完全なMapillaryビューアをアプリやGISに統合できます。"
   learn: "ビジネスプランについて更に知る"
-  landingHow:
+landingHow:
   one: "1. Mapillaryアプリを入手"
   oneAvailble: "以下で利用可能："
   oneFrom: "and from"
   two: "2. 外に出かけてシーケンスを撮影"
   three: "3. いろいろな場所を閲覧、探索してシェア"
-  landingWhatyoucan:
+landingWhatyoucan:
   title: "Mapillaryであなたができること"
   section1Map: "街の様子や新しい場所をマッピングできます。"
   section1Missing: "自分の町のストリート・フォトが見当たらない場合は、あなた自身が追加できます！"
